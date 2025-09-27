@@ -24,7 +24,7 @@ A **Contact Management** web application built with **Node.js**, **Express**, an
 ---
 
 ## 📂 Project Structure
-project/<br>
+``` project/<br>
 │<br>
 ├─ controllers/ <br>
 │ ├─ authController.js <br>
@@ -47,7 +47,7 @@ project/<br>
 ├─ .env <br>
 ├─ server.js <br>
 └─ package.json <br>
-
+```
 ## 🔑 API Endpoints (for Postman Testing)
 ## Auth
 
