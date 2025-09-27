@@ -24,7 +24,8 @@ A **Contact Management** web application built with **Node.js**, **Express**, an
 ---
 
 ## 📂 Project Structure
-``` project/
+```
+ project/
 │
 ├─ controllers/ 
 │ ├─ authController.js 
