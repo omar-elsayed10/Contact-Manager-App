@@ -48,3 +48,21 @@ project/<br>
 ├─ server.js <br>
 └─ package.json <br>
 
+## 🔑 API Endpoints (for Postman Testing)
+## Auth
+
+- POST /users/register: Register a new user (with avatar image).
+
+- POST /users/login: Login and receive a JWT token.
+
+- Contacts (requires Authorization: Bearer <token> header)
+
+- GET /contacts: Get all contacts for the logged-in user.
+
+- GET /contacts/:id: Get a specific contact by ID.
+
+- POST /contacts: Create a new contact.
+
+- PUT /contacts/:id: Update an existing contact.
+
+- DELETE /contacts/:id: Delete a contact.
