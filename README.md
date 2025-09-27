@@ -25,28 +25,28 @@ A **Contact Management** web application built with **Node.js**, **Express**, an
 
 ## 📂 Project Structure
 ``` project/<br>
-│<br>
-├─ controllers/ <br>
-│ ├─ authController.js <br>
-│ └─ contactController.js <br>
-│<br>
-├─ middleware/ <br>
-│ ├─ authMiddleware.js <br>
-│ └─ errorMiddleware.js <br>
-│ <br>
-├─ models/ <br>
-│ ├─ User.js <br>
-│ └─ Contact.js <br>
-│ <br>
-├─ routes/ <br>
-│ ├─ authRoutes.js <br>
-│ └─ contactRoutes.js <br>
-│ <br>
-├─ uploads/ # Avatar images <br>
-│<br>
-├─ .env <br>
-├─ server.js <br>
-└─ package.json <br>
+│
+├─ controllers/ 
+│ ├─ authController.js 
+│ └─ contactController.js 
+│
+├─ middleware/ 
+│ ├─ authMiddleware.js 
+│ └─ errorMiddleware.js 
+│ 
+├─ models/ 
+│ ├─ User.js 
+│ └─ Contact.js 
+│
+├─ routes/ 
+│ ├─ authRoutes.js 
+│ └─ contactRoutes.js 
+│ 
+├─ uploads/ # Avatar images 
+│
+├─ .env 
+├─ server.js 
+└─ package.json 
 ```
 ## 🔑 API Endpoints (for Postman Testing)
 ## Auth
