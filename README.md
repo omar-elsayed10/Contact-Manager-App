@@ -24,11 +24,11 @@ A **Contact Management** web application built with **Node.js**, **Express**, an
 ---
 
 ## 📂 Project Structure
-project/
-│
-├─ controllers/
-│ ├─ authController.js
-│ └─ contactController.js
+project/<br>
+│<br>
+├─ controllers/ <br>
+│ ├─ authController.js <br>
+│ └─ contactController.js <br>
 │
 ├─ middleware/
 │ ├─ authMiddleware.js
