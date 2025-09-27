@@ -29,22 +29,22 @@ project/<br>
 ├─ controllers/ <br>
 │ ├─ authController.js <br>
 │ └─ contactController.js <br>
-│
-├─ middleware/
-│ ├─ authMiddleware.js
-│ └─ errorMiddleware.js
-│
-├─ models/
-│ ├─ User.js
-│ └─ Contact.js
-│
-├─ routes/
-│ ├─ authRoutes.js
-│ └─ contactRoutes.js
-│
-├─ uploads/ # Avatar images
-│
-├─ .env
-├─ server.js
-└─ package.json
+│<br>
+├─ middleware/ <br>
+│ ├─ authMiddleware.js <br>
+│ └─ errorMiddleware.js <br>
+│ <br>
+├─ models/ <br>
+│ ├─ User.js <br>
+│ └─ Contact.js <br>
+│ <br>
+├─ routes/ <br>
+│ ├─ authRoutes.js <br>
+│ └─ contactRoutes.js <br>
+│ <br>
+├─ uploads/ # Avatar images <br>
+│<br>
+├─ .env <br>
+├─ server.js <br>
+└─ package.json <br>
 
