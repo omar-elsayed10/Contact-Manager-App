@@ -55,7 +55,7 @@ project/<br>
 
 - POST /users/login: Login and receive a JWT token.
 
-- Contacts (requires Authorization: Bearer <token> header)
+## Contacts (requires Authorization: Bearer <token> header)
 
 - GET /contacts: Get all contacts for the logged-in user.
 
